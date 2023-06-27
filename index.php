@@ -11,6 +11,8 @@
 <body>
     <h1>MY LANDING PAGE</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+    <h1>Hello World</h1>
 </body>
 
 </html>
